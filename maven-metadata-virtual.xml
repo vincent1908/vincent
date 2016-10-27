@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>com.inetpsa.tsf00</groupId>
+  <artifactId>tsf-root</artifactId>
+  <version>1.5.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>2</buildNumber>
+      <timestamp>20160520.221554</timestamp>
+    </snapshot>
+    <lastUpdated>20160520221554</lastUpdated>
+  </versioning>
+</metadata>
